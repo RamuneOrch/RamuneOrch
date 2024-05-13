@@ -1,16 +1,16 @@
-### Hi there 👋
+# seonho-song
 
-<!--
-**RamuneOrch/RamuneOrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![RamuneOrch's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamuneOrch&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdtjs1219)](https://solved.ac/thdtjs1219/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Skills
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-FF9C08.svg?&style=for-the-badge&logo=amazonaws&logoColor=black)
+
+## 🚍 Tools
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCODE](https://img.shields.io/badge/vsCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
